@@ -12,7 +12,22 @@
 <li><img src="data/icons/training.png" width="20"> Training (making space for more),</ul>
 
 <h2>Tech stack</h2>
-<p float="left" align="center">    <img src="data/bootstrap.png" 	width="75px;">    <img src="data/composer.png" 	width="75px;">     <img src="data/css.png" 		width="75px;">    <img src="data/doctrine.png" 	width="75px;">    <img src="data/github.png" 		width="75px;">    <img src="data/html.png" 		width="75px;">    <img src="data/jquery.png" 		width="75px;">    <img src="data/js.png" 			width="75px;">    <img src="data/mysql.png" 		width="75px;">    <img src="data/npm.png" 		width="75px;">    <img src="data/phpstorm.png" 	width="75px;">    <img src="data/scss.png" 		width="75px;">    <img src="data/symfony.png" 	width="75px;">    <img src="data/ts.png" 			width="75px;">    <img src="data/ubuntu.png" 		width="75px;"></p>
+<p float="left" align="center">   
+  <img src="data/bootstrap.png" 	width="35;">    
+  <img src="data/composer.png" 	width="35;">     
+  <img src="data/css.png" 		width="35;">    
+  <img src="data/doctrine.png" 	width="35;">    
+  <img src="data/github.png" 		width="35;">    
+  <img src="data/html.png" 		width="35;">    
+  <img src="data/jquery.png" 		width="35;">    
+  <img src="data/js.png" 			width="35;">    
+  <img src="data/mysql.png" 		width="35;">    
+  <img src="data/npm.png" 		width="35;">    
+  <img src="data/phpstorm.png" 	width="35;">    
+  <img src="data/scss.png" 		width="35;">    
+  <img src="data/symfony.png" 	width="35;">    
+  <img src="data/ts.png" 			width="35;">    
+  <img src="data/ubuntu.png" 		width="35;"></p>
 
 <h2>You can find me here</h2>
 <p align="center">
