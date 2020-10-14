@@ -1,6 +1,5 @@
 <h2>About me</h2>
-<p align="center"><i>Hobby Frontend/Backend developer. Please leave a like (star) If You've liked some of my projects - I appreciate it</i></p>
-<p align="center"><a href="https://github.com/Volmarg/Volmarg/raw/main/data/nope.jpg">More about me</a></p>
+<p align="center"><i>Hobby Frontend/Backend developer. More about me <a href="https://github.com/Volmarg/Volmarg/raw/main/data/nope.jpg">here</a></i></p>
 
 <h2>Free time</h2>
 <ul><li><img src="data/icons/electric-guitar.png" width="25"> E-guitar (generating loud noices) ,
