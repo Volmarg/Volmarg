@@ -1,5 +1,7 @@
 <h2>About me</h2>
-<p align="center"><i>Hobby Frontend/Backend developer. If I was to say more about myself, then this is would be the most accurate description</i><center><img src="data/nope.jpg" width="400px;"></center></p>
+<p align="center"><i>Hobby Frontend/Backend developer. If I was to say more about myself, then this is would be the most accurate description</i>
+  <img src="data/nope.jpg" width="400px;">
+</p>
 
 <p align="center"><i>Please leave a like (star) If You've liked some of my projects - I appreciate it</i></p>
 
