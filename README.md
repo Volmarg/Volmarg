@@ -14,7 +14,7 @@
   <img src="data/badges/css3.svg" 	   >    
   <img src="data/badges/doctrine.svg"  >    
   <img src="data/badges/git.svg"       >    
-  <img src="data/badges/html.svg" 	   >    
+  <img src="data/badges/html5.svg" 	   >    
   <img src="data/badges/jquery.svg"    >    
   <img src="data/badges/js.svg" 	   >    
   <img src="data/badges/mysql.svg" 	   >	    
