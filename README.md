@@ -31,6 +31,7 @@
 <a href="https://open.spotify.com/user/volmarg">  <img src="data/badges/spotify.svg"></a>
 <a href="https://www.linkedin.com/in/volmarg/">  <img src="data/badges/linkedin.svg"></a>
 <a href="https://www.xing.com/profile/Dariusz_Wlodarczyk2">  <img src="data/badges/xing.svg"></a>
+<a href="https://profile.codersrank.io/user/volmarg/">  <img src="data/badges/codersrank.svg"></a>
 <img src="data/badges/discord.svg">
 </p>
 
