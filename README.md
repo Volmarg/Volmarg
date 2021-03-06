@@ -21,6 +21,7 @@
   <img src="data/badges/npm.svg" 	   >    
   <img src="data/badges/phpstorm.svg"  >	    
   <img src="data/badges/sass.svg" 	   >
+  <img src="data/badges/php.svg"   >
   <img src="data/badges/symfony.svg"   >
   <img src="data/badges/ts.svg" 	   >
   <img src="data/badges/ubuntu.svg"    ></p>
