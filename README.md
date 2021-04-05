@@ -24,6 +24,7 @@
   <img src="data/badges/php.svg"   >
   <img src="data/badges/symfony.svg"   >
   <img src="data/badges/ts.svg" 	   >
+  <img src="data/badges/vuejs.svg" 	   >
   <img src="data/badges/ubuntu.svg"    ></p>
 
 <h2>You can find me here</h2>
