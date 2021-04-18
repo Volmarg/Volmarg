@@ -40,5 +40,6 @@
 <h2>My articles</h2>
 <ul>
 <li><a href="https://medium.com/@Volmarg/vue-js-and-twig-in-symfony-5c20aef5c57d">Vue.js and Twig in Symfony</a></li>
+<li><a href="https://medium.com/@Volmarg/symfony-routes-in-vue-js-spa-da03dedc09c4">Symfony Routes in Vue.js (SPA)</a></li>
 </ul>
 
