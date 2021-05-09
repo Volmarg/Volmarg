@@ -34,6 +34,9 @@
 <a href="https://www.linkedin.com/in/volmarg/">  <img src="data/badges/linkedin.svg"></a>
 <a href="https://www.xing.com/profile/Dariusz_Wlodarczyk2">  <img src="data/badges/xing.svg"></a>
 <a href="https://profile.codersrank.io/user/volmarg/">  <img src="data/badges/codersrank.svg"></a>
+<a href="https://medium.com/@Volmarg"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
+  
+  
 <img src="data/badges/discord.svg">
 </p>
 
