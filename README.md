@@ -44,7 +44,7 @@
 <ul>
   
   
-<li><a href="https://medium.com/@Volmarg/vue-js-and-symfony-forms-ba5139f77f5f">VVue.js and Symfony forms — handling requests</a></li>
+<li><a href="https://medium.com/@Volmarg/vue-js-and-symfony-forms-ba5139f77f5f">Vue.js and Symfony forms — handling requests</a></li>
 <li><a href="https://medium.com/@Volmarg/vue-js-and-symfony-user-authentication-19ca983126d">Vue.js and Symfony — User Authentication</a></li>
 <li><a href="https://medium.com/@Volmarg/translations-in-vue-js-with-ts-and-symfony-e91b3382acb1">Translations in Vue.js (with TS) and Symfony</a></li>  
 <li><a href="https://dzone.com/articles/symfony-routes-in-vuejs-spa">Symfony Routes in Vue.js (SPA)</a></li>  
