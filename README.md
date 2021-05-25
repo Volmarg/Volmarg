@@ -42,9 +42,7 @@
 
 <h2>My articles</h2>
 <ul>
-  
-  
-  
+<li><a href="https://medium.com/@Volmarg/symfony-doctrine-database-encryption-50d7e01d8f69">Symfony / Doctrine — database encryption</a></li>
 <li><a href="https://medium.com/@Volmarg/vue-js-and-symfony-nested-menu-5d593185ea1">Vue.js and Symfony — nested menu</a></li> 
 <li><a href="https://medium.com/@Volmarg/vue-js-and-symfony-forms-ba5139f77f5f">Vue.js and Symfony forms — handling requests</a></li>
 <li><a href="https://dzone.com/articles/vuejs-and-symfony-user-authentication">Vue.js and Symfony — User Authentication</a></li>
