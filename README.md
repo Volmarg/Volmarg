@@ -42,7 +42,7 @@
 
 <h2>My articles</h2>
 <ul>
-<li><a href="https://medium.com/nerd-for-tech/jquery-vs-vue-js-aaa69744ebef">jQuery vs Vue.js</a></li>
+<li><a href="https://dzone.com/articles/jquery-vs-vuejs">jQuery vs Vue.js</a></li>
 <li><a href="https://medium.com/@Volmarg/symfony-doctrine-database-encryption-50d7e01d8f69">Symfony / Doctrine — database encryption</a></li>
 <li><a href="https://medium.com/@Volmarg/vue-js-and-symfony-nested-menu-5d593185ea1">Vue.js and Symfony — nested menu</a></li> 
 <li><a href="https://medium.com/@Volmarg/vue-js-and-symfony-forms-ba5139f77f5f">Vue.js and Symfony forms — handling requests</a></li>
