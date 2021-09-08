@@ -1,3 +1,9 @@
+<div align="center">
+<a href="https://www.buymeacoffee.com/volmarg">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+</a>
+</div>
+
 <h2>About me</h2>
 <p align="center"><i>Hobby Frontend/Backend developer. More about me <a href="https://github.com/Volmarg/Volmarg/raw/main/data/nope.jpg">here</a></i></p>
 
