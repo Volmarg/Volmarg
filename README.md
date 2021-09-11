@@ -5,7 +5,11 @@
 </div>
 
 <h2>About me</h2>
-<p align="center"><i>Hobby Frontend/Backend developer. More about me <a href="https://github.com/Volmarg/Volmarg/raw/main/data/nope.jpg">here</a></i></p>
+<p align="center"><i>Hobby Frontend/Backend developer. </i></p>
+<p align="center"><i>Creator of <b><a href="http://personal-management-system.pl/login">Personal Management System</a></b></i></p>
+  
+  
+<p align="center"><i>More about me <b><a href="https://github.com/Volmarg/Volmarg/raw/main/data/nope.jpg">here</a></b></i></p>
 
 <h2>Free time</h2>
 <ul><li><img src="data/icons/electric-guitar.png" width="25"> E-guitar (generating loud noices) ,
