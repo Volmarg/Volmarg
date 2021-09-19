@@ -52,6 +52,7 @@
 
 <h2>My articles</h2>
 <ul>
+<li><a href="https://medium.com/@Volmarg/vue-js-symfony-roles-authentication-f9c5ea00d750">Vue.js & Symfony — roles authentication</a></li>
 <li><a href="https://medium.com/@Volmarg/emitting-vue-js-events-in-typescript-d99d5ec9d15f">Emitting Vue.js events in Typescript</a></li>
 <li><a href="https://dzone.com/articles/jquery-vs-vuejs">jQuery vs Vue.js</a></li>
 <li><a href="https://medium.com/@Volmarg/symfony-doctrine-database-encryption-50d7e01d8f69">Symfony / Doctrine — database encryption</a></li>
