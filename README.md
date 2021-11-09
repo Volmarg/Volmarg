@@ -65,3 +65,8 @@
 <li><a href="https://medium.com/@Volmarg/vue-js-and-twig-in-symfony-5c20aef5c57d">Vue.js and Twig in Symfony</a></li>
 </ul>
 
+<h2>They write about my <b><a href="http://personal-management-system.pl/login">Personal Management System</a></b> </h2>
+<ul>
+<li><a href="https://medevel.com/personal-management-system/">Personal Management System: A personal CRM and daily routine for busy minds</a></li>
+</ul>
+
