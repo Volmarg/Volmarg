@@ -52,6 +52,7 @@
 
 <h2>My articles</h2>
 <ul>
+<li><a href="https://medium.com/@Volmarg/splitting-symfony-project-into-chunks-c297b5a55dab">Splitting Symfony project into chunks</a></li>
 <li><a href="https://medium.com/@Volmarg/vue3-3-2-x-vue-variables-in-css-style-section-2803047bf7f9">Vue3 (3.2.x) — Vue variables in CSS (style section)</a></li>
 <li><a href="https://medium.com/@Volmarg/vue-js-symfony-roles-authentication-f9c5ea00d750">Vue.js & Symfony — roles authentication</a></li>
 <li><a href="https://medium.com/@Volmarg/emitting-vue-js-events-in-typescript-d99d5ec9d15f">Emitting Vue.js events in Typescript</a></li>
