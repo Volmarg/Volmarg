@@ -1,9 +1,3 @@
-<div align="center">
-<a href="https://ko-fi.com/volmarg">
-<img src="https://ko-fi.com/img/githubbutton_sm.svg">
-</a>
-</div>
-
 <h2>About me</h2>
 <p align="center"><i>Hobby Frontend/Backend developer. </i></p>
 <p align="center"><i>Creator of <b><a href="http://personal-management-system.pl/login">Personal Management System</a></b></i></p>
