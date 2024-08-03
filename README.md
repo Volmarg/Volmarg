@@ -1,7 +1,10 @@
 <h2>About me</h2>
 <p align="center"><i>Hobby Frontend/Backend developer. </i></p>
-<p align="center"><i>Creator of <b><a href="http://personal-management-system.pl/login">Personal Management System</a></b></i></p>
-  
+<p align="center"><i>Creator of:</p>
+<div align="center" style="list-tyle-type: none;">
+  › <b><a href="http://personal-management-system.pl/login">Personal Management System</a></b></i><br/>
+  › <b><a href="http://voltigo.pl/">Voltigo</a></b></i>
+</div><br/>
   
 <p align="center"><i>More about me <b><a href="https://github.com/Volmarg/Volmarg/raw/main/data/nope.jpg">here</a></b></i></p>
 
