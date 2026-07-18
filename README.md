@@ -43,8 +43,6 @@
 <a href="https://profile.codersrank.io/user/volmarg/">  <img src="data/badges/codersrank.svg"></a>
 <a href="https://medium.com/@Volmarg"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
   
-  
-<img src="data/badges/discord.svg">
 </p>
 
 <h2>My articles</h2>
